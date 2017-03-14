@@ -1,0 +1,187 @@
+body { 
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px ;
+
+}
+
+.heading {
+    background-image: url("../images/header_bg.jpg");
+    background-size: cover;
+    background-position: 50% 40%;
+    height: 350px;
+
+}
+
+nav {
+
+	font-weight: 800;
+	font-size: 24px;
+	padding-top: 12px;
+	margin-left: 10%;
+}
+
+a {
+
+	color: white;
+	text-decoration: none;
+}
+
+h1 {
+
+	font-weight: 600;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 30px;
+
+}
+
+.button {
+
+	text-align: center;
+	background-color: #f9e42e;
+	padding: 10px;
+	width: 20%;
+	border-radius: 5px;
+	margin: auto;
+   	position: relative;
+  	top: 0%;
+ }
+
+.button a {
+
+	color: #033048;
+	font-weight: 800;
+	font-size: 14px;
+}
+
+
+.benefits {
+	background-color: #f0efef;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	border: 0;
+    
+}
+
+	h2 {
+		color: #033048;
+		font-weight: 600;
+		font-size: 20px;
+		margin-left: 10%;
+		padding-top: 50px;
+		margin-top: 0;
+		
+	}
+	p {
+		color: #606161;
+		font-weight: 300;
+		font-size: 13px;
+		margin-left: 10%;
+		margin-right: 40%;
+
+	}
+
+	ul {
+		color: #606161;
+		font-weight: 300;
+		font-size: 13px;
+		margin-left: 12%;
+		margin-right: 48%;
+		padding-bottom: 30px;
+		
+	}
+
+.testimonial {
+	
+	background-image: url("../images/testimonial_bg.jpg");
+    background-size: 100%;
+    height: 180px;
+    color: white;
+    padding: 20px 0 20px 0;
+    text-align: center;
+
+}
+
+h3 {
+	display: block;
+	font-style: italic;
+    font-weight: 300;
+    font-size: 18px;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding-bottom: 0px;
+	margin-bottom: 2px;
+	
+}
+
+h4 {
+
+	padding: 0;
+	display: block;
+	font-weight: 600;
+	font-size: 18px;
+	margin-top: 2px;
+	margin-bottom: 20px;
+	
+}
+
+.signup {
+
+	background-color: #f9e42e;
+	height: 40px;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.button2 {
+
+	display: block; 
+	width: 15%;
+	margin: 0 auto;
+	position: relative;
+	background-color: #033048;
+	height: 20px;
+	padding: 10px 30px 10px 30px;
+	border-radius: 5px;
+	text-align: center;
+	vertical-align: middle;
+	color: white;
+	font-size: 12px;
+	font-weight: 800;
+}
+
+
+footer {
+	background-color: #121212;
+	background-position: center;
+    height: 180px;
+    color: white;
+	text-align: center;
+}
+
+footer nav {
+	text-align: center;
+	padding: 30px 0 20px 0;
+	margin: auto;
+}
+
+footer nav a {
+	color: #f9e42e;
+	font-weight: 800;
+	font-size: 24px;
+	
+}
+
+.footerSocial a img {
+	height: 20px;
+	padding: 10px;
+}
+
+h6 {
+	font-size: 9px;
+	font-weight: 600;
+}
